@@ -791,6 +791,9 @@ hr {
 .sci{
   color: #1390d5
 }
+.margin-top-mobile{
+  margin-top: 120px;
+}
 
 .remove-margin-right{
   margin-right: 0px !important;
